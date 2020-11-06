@@ -17,7 +17,7 @@
 -  [PNU_3991_AR](https://github.com/saharrajabi/PNU_3991_AR/blob/gh-pages/README.md)
 - [حساب گیت هاب](https://github.com/saharrajabi)
 
-- [رزومه](https://saharrajabi.github.io/Resume/)
+- [رزومه](https://saharrajabi.github.io)
 
 - [SOP](https://saharrajabi.github.io/SOP/)
 
@@ -47,9 +47,9 @@
 
 ## دروس ارشد
 
-[1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/abouhamze-fahime/PNU_3991_AR/tree/gh-pages/AdvancedSoftwareEngineering)
+[1115026_01	متدولوژی ایجاد نرم افزار 	3](https://github.com/saharrajabi/PNU_3991_AR/tree/gh-pages/)
 <br>
-[1115280_01	مدیریت پروژه نرم افزاری	3](https://github.com/abouhamze-fahime/PNU_3991_AR/tree/gh-pages/SoftwareManagement)
+[1115280_01	مهندسی نرم افزار 	3](https://github.com/saharrajabi/PNU_3991_AR/tree/gh-pages/)
 <br>
 
 
@@ -110,7 +110,7 @@
      <th ><a"></a></th>
      <th ></th>
      <th>a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/">معماری نرم افزار</a></th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/">متدولوژی ایجاد نرم افزار </a></th>
+    <th>a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/">متدولوژی ایجاد نرم افزار </a></th>
     <th>پنج شنبه</th>
   </tr>
 </table>
