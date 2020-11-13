@@ -17,7 +17,7 @@
 -  [PNU_3991_AR](https://github.com/saharrajabi/PNU_3991_AR/blob/gh-pages/README.md)
 - [حساب گیت هاب](https://github.com/saharrajabi)
 
-- [رزومه](https://github.com/saharrajabi.github.io)
+- [رزومه](https://saharrajabi.github.io/)
 
 - [SOP](https://saharrajabi.github.io/SOP/)
 
