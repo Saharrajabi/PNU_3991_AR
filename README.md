@@ -30,16 +30,16 @@
 ## Winter Semester Courses 1399/2020
 ## گروه 
 1. G-S07
-    1. [_SDM-xx_](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/)
+    1. [_SDM-28علی مهرایی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/)
     1. [_SDM-20_سحررجبی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/)         
-    1. [_SDM-xx_](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/)
+    1. [_SDM-24 سالار بهادر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/)
     
 2. **ارائه فصل های کتاب**
     
     - **G-SDM-01** : 
-         - CHAPTER 28:
-        -  CHAPTER 20:
-        -  CHAPTER 24:
+         - CHAPTER 28:علی مهرایی
+        -  CHAPTER 20:سحررجبی
+        -  CHAPTER 24:سالار بهادر
 
 
 
