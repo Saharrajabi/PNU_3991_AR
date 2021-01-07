@@ -250,4 +250,4 @@
      <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/">معماری نرم افزار</a></th>
     <th>پنج شنبه</th>
   </tr>
-</table>
+</table> 
