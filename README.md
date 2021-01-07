@@ -59,13 +59,7 @@
   </tr>
    </table>
 
-   - [1.2.1_Intention]()
-        - Business
-        - Communities and Groups
-        - Entertainment
-        - Identity and Personal Presentation
-        - Learning and Edutainment
-        - Information Services
+  
         
    <table style="width:100%">
   <tr>
@@ -78,13 +72,7 @@
   </tr>
    </table>
    
-   - [1.2.2_Usage]()
-        - Electronic Business and Electronic Commerce
-        - Communities and Groups
-        - Entertainment
-        - Identity and Personal Presentation
-        - Learning and Edutainment
-        - Information Services
+  
         
         
    <table style="width:100%">
@@ -96,12 +84,7 @@
   </tr>
    </table>
    
-   - [1.2.3_Content]()
-        - Electronic Business and Electronic Commerce
-        - Communities and Groups
-        - Identity and Personal Presentation
-        - Learning and Edutainment
-        - Information Services
+  
         
    <table style="width:100%">
   <tr>
@@ -111,13 +94,7 @@
   </tr>
    </table>
    
-   - [1.2.4_Functionality]()
-        - Electronic Business and Electronic Commerce
-        - Communities and Groups
-        - Entertainment
-        - Identity and Personal Presentation
-        - Learning and Edutainment
-        - Information Services
+  
         
   <table style="width:100%">
   <tr>
@@ -130,7 +107,7 @@
   </tr>
    </table>
    
-  - [1.2.5_Context]()
+ 
    
    <table style="width:100%">
   <tr>
@@ -142,7 +119,7 @@
   </tr>
    </table>
    
-  - [1.2.6_Presentation]()
+ 
    
    <table style="width:100%">
   <tr>
