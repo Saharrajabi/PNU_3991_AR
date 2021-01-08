@@ -19,7 +19,7 @@
 
 - [رزومه](https://saharrajabi.github.io/)
 
-- [SOP](saharrajabi.github.io/SOP/)
+- [SOP](https://saharrajabi.github.io/SOP/)
 
 - [CERTIFICATE](https://www.sololearn.com/Certificate/1024-20270960/pdf/)
 
