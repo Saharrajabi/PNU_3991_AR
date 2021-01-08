@@ -23,6 +23,16 @@
 
 - [patchwork](https://uupload.ir/files/iddp_patchwork.jpg)
 ------------------
+------------------
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/Saharrajabi/PNU_3991_AR/blob/main/General/SR_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/Saharrajabi/PNU_3991_AR/blob/main/General/SR_GeneralSection_CheckList_AR_3991.pdf)
+
+##  بخش دروس ارشد
+- [خلاصه ارزیابی درس_معماری نرم افزار ](https://github.com/Saharrajabi/PNU_3991_AR/blob/main/SoftwareArchitecture/SoftwareArchitecture/SR_SoftwareArchitecture_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/Saharrajabi/PNU_3991_AR/blob/main/Software%20DevelopmentMethodologies/SR_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
 
 
 
